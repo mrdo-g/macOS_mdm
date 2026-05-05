@@ -59,7 +59,7 @@
 **Вариант А – через curl (если репозиторий приватный, сначала сделайте скрипт доступным по прямой ссылке):**
 
 ```bash
-curl -L -o macos_mdm.sh https://github.com/mrdo-g/macOS_mdm/macos_mdm.sh && chmod +x macos_mdm.sh && sudo ./macos_mdm.sh
+curl -L -o macos_mdm.sh https://raw.githubusercontent.com/mrdo-g/macOS_mdm/main/macos_mdm.sh && chmod +x macos_mdm.sh && sudo ./macos_mdm.sh
 ```
 
 **Вариант Б – с флешки:**
